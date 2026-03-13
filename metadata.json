@@ -1,0 +1,5 @@
+{
+  "name": "Văn miếu Mao Điền-tunggduongg",
+  "description": "An interactive educational portal to explore the history, architecture, and scholars of Văn miếu Mao Điền, Vietnam's second-largest temple of literature.",
+  "requestFramePermissions": ["camera"]
+}
