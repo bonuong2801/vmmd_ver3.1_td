@@ -189,7 +189,7 @@ export const GAME_LEVELS = [
     questions: [
       {
         id: "2-1",
-        question: "Vị hiền tài nào nổi tiếng with giai thoại dâng 'Thất trảm sớ'?",
+        question: "Vị hiền tài nào nổi tiếng với giai thoại dâng 'Thất trảm sớ'?",
         options: ["Nguyễn Trãi", "Chu Văn An", "Mạc Đĩnh Chi", "Vũ Hữu"],
         answer: "Chu Văn An",
         feedback: "Chu Văn An dũng cảm dâng sớ xin chém 7 nịnh thần để giữ gìn kỷ cương triều chính."
@@ -203,7 +203,7 @@ export const GAME_LEVELS = [
       },
       {
         id: "2-3",
-        question: "Nguyễn Thị Duệ đã cải trang thành nam giới with tên gọi là gì?",
+        question: "Nguyễn Thị Duệ đã cải trang thành nam giới với tên gọi là gì?",
         options: ["Nguyễn Ngọc Du", "Nguyễn Văn Du", "Nguyễn Ngọc Đạo", "Nguyễn Văn Đạo"],
         answer: "Nguyễn Ngọc Du",
         feedback: "Bà lấy tên là Nguyễn Ngọc Du để đi thi vì thời đó phụ nữ không được phép dự thi."
@@ -214,7 +214,7 @@ export const GAME_LEVELS = [
     level: 3,
     type: "matching",
     title: "Tác phẩm để đời",
-    description: "Ghép các danh nhân with những tác phẩm quan trọng nhất của họ.",
+    description: "Ghép các danh nhân với những tác phẩm quan trọng nhất của họ.",
     pairs: [
       { id: "3-1", left: "Nguyễn Trãi", right: "Bình Ngô Đại Cáo", feedback: "Bản tuyên ngôn độc lập hùng hồn khẳng định chủ quyền dân tộc." },
       { id: "3-2", left: "Vũ Hữu", right: "Lập thành toán pháp", feedback: "Cuốn sách toán học ứng dụng đầu tiên của Việt Nam." },
@@ -240,7 +240,7 @@ export const GAME_LEVELS = [
         question: "Người đời thường gọi Nguyễn Bỉnh Khiêm bằng danh hiệu gì?",
         options: ["Trạng Lường", "Trạng Trình", "Trạng Ăn", "Trạng Nguyên"],
         answer: "Trạng Trình",
-        feedback: "Danh hiệu này gắn liền with khả năng tiên tri và trí tuệ bậc thầy của ông."
+        feedback: "Danh hiệu này gắn liền với khả năng tiên tri và trí tuệ bậc thầy của ông."
       }
     ]
   },
@@ -284,7 +284,7 @@ export const CURRENT_ACTIVITIES = [
     id: 1,
     title: "Lễ hội truyền thống",
     date: "17-18 tháng 2 âm lịch",
-    description: "Lễ hội quy mô lớn with các nghi thức tế lễ trang trọng, các trò chơi dân gian như cờ người, chọi gà và các cuộc thi viết thư pháp.",
+    description: "Lễ hội quy mô lớn với các nghi thức tế lễ trang trọng, các trò chơi dân gian như cờ người, chọi gà và các cuộc thi viết thư pháp.",
     image: "/images/lehoitruyenthong.jpg",
     details: "Hằng năm, vào ngày 17 và 18 tháng 2 âm lịch, Văn miếu Mao Điền lại rộn ràng không khí lễ hội. Đây là dịp để nhân dân địa phương và du khách thập phương về chiêm bái, tưởng nhớ các bậc hiền tài. Phần lễ diễn ra trang nghiêm với các nghi thức tế lễ truyền thống, dâng hương. Phần hội vô cùng phong phú với các trò chơi dân gian như cờ người, chọi gà, đập niêu... Đặc biệt, hội thi viết thư pháp thu hút rất nhiều người tham gia, thể hiện tinh thần hiếu học và trọng chữ nghĩa của vùng đất học Hải Dương."
   },
