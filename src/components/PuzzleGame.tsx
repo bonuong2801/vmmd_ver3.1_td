@@ -152,6 +152,8 @@ export default function PuzzleGame() {
   const startLevel = useCallback((level: number) => {
     if (!unlockedLevels.includes(level)) return;
     setCurrentLevel(level);
+    setCurrentQuestionIndex(0);
+    setQuizFeedback(null);
     setGameStatus("playing");
   }, [unlockedLevels]);
 
@@ -165,6 +167,8 @@ export default function PuzzleGame() {
     setTime(0);
     setScore(0);
     setCurrentLevel(1);
+    setCurrentQuestionIndex(0);
+    setQuizFeedback(null);
     setUnlockedLevels([1]);
   }, []);
 
